@@ -6,6 +6,9 @@ Este patrón restringe la instanciación de una clase a un objeto. Es un tipo de
 
 Proporciona un punto de acceso global para la instancia creada.
 
+## Image
+![](../images/singleton.png)
+
 ## How to implement a singleton class?
 _The following program demonstrates the implementation of singleton class where it prints the instances created multiple times._
 

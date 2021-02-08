@@ -1,5 +1,10 @@
 # MVC
-El modelo-vista-controlador es uno de los patrones de diseno mas utlizados por los desarrolladores, tiene tres partes claves:  
+Model View Controller is the most commonly used design pattern.
+
+El modelo-vista-controlador es uno de los patrones de diseño mas utlizados por los desarrolladores, tiene tres partes claves:  
+
+## Image
+![](../images/mvc.jpg)
 
 ## Modelo
 
