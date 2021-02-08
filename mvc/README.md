@@ -12,7 +12,7 @@ _Consiste en la logica de la aplicacion, o tambien conocida como la logica de ne
 
 ## Vista
 
-_ La vista es el archivo HTML, que interactua con el usuario final, representa los datos del modelo al usuario_
+_La vista es el archivo HTML, que interactua con el usuario final, representa los datos del modelo al usuario_
 
 ## Controlador
 
